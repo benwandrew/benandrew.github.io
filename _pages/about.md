@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm Isabel.
+Hi. I'm Isabel. I'm that girl who picks up starfish.
